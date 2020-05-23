@@ -1,0 +1,11 @@
+name: surprise
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - scikit-surprise
+  - notebook
+  - pandas
+  - scikit-learn
+prefix: E:\ProgramData\Anaconda3\envs\surprise
+
