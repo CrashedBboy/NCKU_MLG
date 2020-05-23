@@ -1,0 +1,12 @@
+name: lightfm
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - lightfm
+  - pandas
+  - scikit-learn
+  - notebook
+  - openmp
+prefix: E:\ProgramData\Anaconda3\envs\lightfm
+
