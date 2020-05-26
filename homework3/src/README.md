@@ -54,3 +54,22 @@ ConvIPNN: Convolutional Inner Product Neural Network
     - conclude proposed strength & novelty
     - future work: how to imporve
 5. Citations
+
+## Tested
+- [x] Baseline
+- [ ] User-based collaborative filtering with cosine similarity (UCF-s)
+- [ ] User-based collaborative filtering with pearson correlation (UCF-p)
+- [x] Item-based collaborative filtering with cosine similarity (ICF-s)
+- [ ] Item-based collaborative filtering with pearson correlation (ICF-p)
+- [ ] Matrix Factorization (MF)
+- [ ] Factorization Machine (FM)
+- [ ] Factorization Machine supported Neural Network (FNN)
+- [ ] Inner Product Neural Network (IPNN)
+- [ ] Outer Product Neural Network (OPNN)
+- [ ] Convolutional Click Prediction Model (CCPM) 
+- [ ] Wide & Deep (WD)
+- [ ] Neural Factorization Machine (NFM)
+- [ ] Deep Factorization Machine (DeepFM)
+- [ ] Attentional Factorization Machines (AFM)
+- [ ] xDeepFM
+- [ ] Deep Crossing (DCN)
