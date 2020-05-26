@@ -57,11 +57,11 @@ ConvIPNN: Convolutional Inner Product Neural Network
 
 ## Tested
 - [x] Baseline
-- [ ] User-based collaborative filtering with cosine similarity (UCF-s)
-- [ ] User-based collaborative filtering with pearson correlation (UCF-p)
+- [x] User-based collaborative filtering with cosine similarity (UCF-s)
+- [x] User-based collaborative filtering with pearson correlation (UCF-p)
 - [x] Item-based collaborative filtering with cosine similarity (ICF-s)
-- [ ] Item-based collaborative filtering with pearson correlation (ICF-p)
-- [ ] Matrix Factorization (MF)
+- [x] Item-based collaborative filtering with pearson correlation (ICF-p)
+- [x] Matrix Factorization (MF)
 - [ ] Factorization Machine (FM)
 - [ ] Factorization Machine supported Neural Network (FNN)
 - [ ] Inner Product Neural Network (IPNN)
