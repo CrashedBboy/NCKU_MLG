@@ -64,7 +64,7 @@ ConvIPNN: Convolutional Inner Product Neural Network
 - [x] Matrix Factorization (MF)
 - [x] Factorization Machine (FM)
 - [x] Factorization Machine supported Neural Network (FNN)
-- [ ] Inner Product Neural Network (IPNN)
+- [x] Inner Product Neural Network (IPNN)
 - [ ] Outer Product Neural Network (OPNN)
 - [ ] Convolutional Click Prediction Model (CCPM) 
 - [ ] Wide & Deep (WD)
