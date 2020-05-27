@@ -71,5 +71,5 @@ ConvIPNN: Convolutional Inner Product Neural Network
 - [x] Neural Factorization Machine (NFM)
 - [x] Deep Factorization Machine (DeepFM)
 - [x] Attentional Factorization Machines (AFM)
-- [ ] xDeepFM
+- [x] xDeepFM
 - [x] Deep Crossing (DCN)
