@@ -67,7 +67,7 @@ ConvIPNN: Convolutional Inner Product Neural Network
 - [x] Inner Product Neural Network (IPNN)
 - [x] Outer Product Neural Network (OPNN)
 - [x] Convolutional Click Prediction Model (CCPM) 
-- [ ] Wide & Deep (WD)
+- [x] Wide & Deep (WD)
 - [ ] Neural Factorization Machine (NFM)
 - [ ] Deep Factorization Machine (DeepFM)
 - [ ] Attentional Factorization Machines (AFM)
