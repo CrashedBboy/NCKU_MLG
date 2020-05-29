@@ -43,8 +43,8 @@ ConvIPNN: Convolutional Inner Product Neural Network
         * model architecture
         * hyperparameters
 3. Experimental analysis
-    - hyperparameter experiment result / analysis
     - data preprocessing
+    - hyperparameter experiment result / analysis
     - models comparision
         * each model settings
         * non-NN-based vs. NN-based methods
