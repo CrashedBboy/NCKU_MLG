@@ -7,5 +7,6 @@ dependencies:
   - cudatoolkit=10.2
   - pytorch
   - torchvision
+  - scipy
 prefix: E:\ProgramData\Anaconda3\envs\attentive
 
