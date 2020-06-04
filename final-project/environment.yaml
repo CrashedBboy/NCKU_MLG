@@ -1,0 +1,11 @@
+name: attentive
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - notebook
+  - cudatoolkit=10.2
+  - pytorch
+  - torchvision
+prefix: E:\ProgramData\Anaconda3\envs\attentive
+
