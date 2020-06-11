@@ -1,0 +1,1 @@
+{"embedding_size": 6, "epoch": 10, "num_negatives": 4, "batch_size": 1024, "lr": 1e-05, "drop_ratio": 0.1, "top_k": 5}
