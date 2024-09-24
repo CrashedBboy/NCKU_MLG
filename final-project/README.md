@@ -1,4 +1,6 @@
-## Attentive Group Recommendation
+## Group Movie Recommendation System
+Developed a recommendation model integrating attention networks and neural collaborative filtering to provide movie recommendations for groups, tested on the CAMRa2011 dataset of individual and household movie ratings.
+
 
 ### Experiments
 
