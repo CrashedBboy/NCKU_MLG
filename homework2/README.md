@@ -1,4 +1,8 @@
-# MLG Homework2 - Link Prediction
+# Who-To-Follow
+
+Developed a social network link prediction model using user attributes, implemented in Python with Scikit-learn and PyTorch.
+
+## MLG Competition Details
 
 Competition Site: [http://140.116.52.202:5566/](http://140.116.52.202:5566/)
 
